@@ -1,6 +1,4 @@
 
-
-```markdown
 # Portfólio de Exercícios - Curso Python Impressionador
 
 Bem-vindo ao meu portfólio de exercícios do **Curso Python Impressionador**! 🎉
@@ -39,31 +37,7 @@ O repositório está organizado da seguinte maneira:
 - **`/exercicios`**: Contém os exercícios que resolvi durante o curso. Cada exercício está organizado por tópicos e módulos, permitindo que você veja meu progresso.
 - **`/projetos`**: Aqui estão os projetos finais e desafios mais complexos que desenvolvi, usando os conceitos aprendidos ao longo do curso.
 
-## Como Começar
 
-### Pré-requisitos:
-
-Para executar os arquivos e experimentar os exercícios, é necessário ter o Python 3.x instalado em seu computador. Para verificar a versão do Python, execute o comando:
-
-```bash
-python --version
-```
-
-Além disso, sugiro criar um ambiente virtual para gerenciar as dependências. Para isso, basta rodar:
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Para Linux ou macOS
-venv\Scripts\activate     # Para Windows
-```
-
-### Instalar Dependências:
-
-Este portfólio utiliza algumas bibliotecas adicionais. Para instalar todas as dependências necessárias, basta rodar o comando:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Como Explorar
 
