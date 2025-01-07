@@ -1,4 +1,4 @@
-Claro! Aqui está uma versão do `README.md` adaptada para o seu portfólio de exercícios do curso Python:
+
 
 ```markdown
 # Portfólio de Exercícios - Curso Python Impressionador
