@@ -48,9 +48,7 @@ O repositório está organizado da seguinte maneira:
 
 Embora este repositório seja meu portfólio pessoal, se você tiver sugestões de melhorias, correções ou novos desafios, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
 
-## Licença
 
-Este portfólio está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LICENSE) para mais informações.
 
 ## Contato
 
